@@ -1,0 +1,105 @@
+,Description,Key
+0,Accomodation Type - Households (Quick Stats) QS402EW,QS402EW
+1,Accomodation Type - People (Quick Stats) QS401EW,QS401EW
+2,Adult Lifestage (alternative adult definition) (Quick Stats) QS110EW,QS110EW
+3,Adults Not in Employment (Key Stats) KS106EW,KS106EW
+4,Age by Single Year (Quick Stats) QS103EW,QS103EW
+5,Age of Arrival in UK (Quick Stats) QS802EW,QS802EW
+6,Age Structure (Key Stats) KS102EW,KS102EW
+7,Car or Van Availability (Quick Stats) QS416EW,QS416EW
+8,Car or Van Availability (Key Stats) KS404EW,KS404EW
+9,Central Heating (Quick Stats) QS415EW,QS415EW
+10,Communal establishment management and type (Quick Stats) QS420EW,QS420EW
+11,Communal establishment management and type - People (Quick Stats) QS421EW,QS421EW
+12,Communal Establishments and Residents (Key Stats) KS405EW,KS405EW
+13,Country of Birth (Key Stats) KS204EW,KS204EW
+14,Country of Birth (detailed) (Quick Stats) QS203EW,QS203EW
+15,Dwellings (Quick Stats) QS418EW,QS418EW
+16,"Dwellings, Household Spaces and Accomodation Type (Key Stats) KS401EW",KS401EW
+17,Economic Activity (Quick Stats) QS601EW,QS601EW
+18,Economic Activity (Key Stats) KS601EW,KS601EW
+19,Economic Activity - Females (Key Stats) KS603EW,KS603EW
+20,Economic Activity - Full-time Students (Quick Stats) QS603EW,QS603EW
+21,Economic Activity - Males (Key Stats) KS602EW,KS602EW
+22,Economic Activity of Household Reference Person (Quick Stats) QS602EW,QS602EW
+23,Ethnic Group (Quick Stats) QS201EW,QS201EW
+24,Ethnic Group (Key Stats) KS201EW,KS201EW
+25,Ethnic group (Write-in Responses) CT0010,CT0010
+26,Ethnic Group (detailed) (Quick Stats) QS211EW,QS211EW
+27,Families with Dependent Children (Quick Stats) QS118EW,QS118EW
+28,General Health (Quick Stats) QS302EW,QS302EW
+29,Health and Provision of Unpaid Care (Key Stats) KS301EW,KS301EW
+30,Highest Level of Qualification (Quick Stats) QS501EW,QS501EW
+31,Hour Worked (Quick Stats) QS604EW,QS604EW
+32,Hours Worked (Key Stats) KS604EW,KS604EW
+33,Household Comp. (alternative child/adult definition) - Households (Quick Stats) QS115EW,QS115EW
+34,Household Comp. (alternative child/adult definition) - People (Quick Stats) QS114EW,QS114EW
+35,Household Composition (Key Stats) KS105EW,KS105EW
+36,Household Composition - Households (Quick Stats) QS113EW,QS113EW
+37,Household Composition - People (Quick Stats) QS112EW,QS112EW
+38,Household Language (Key Stats) KS206EW,KS206EW
+39,Household Lifestage (Quick Stats) QS111EW,QS111EW
+40,Household Size (Quick Stats) QS406EW,QS406EW
+41,Household Spaces (Quick Stats) QS417EW,QS417EW
+42,Household Type (Quick Stats) QS116EW,QS116EW
+43,Households by Deprivation Dimensions (Quick Stats) QS119EW,QS119EW
+44,Industry (Quick Stats) QS605EW,QS605EW
+45,Industry (Key Stats) KS605EW,KS605EW
+46,Industry - Females (Key Stats) KS607EW,KS607EW
+47,Industry - Males (Key Stats) KS606EW,KS606EW
+48,Length of Residence in UK (Quick Stats) QS803EW,QS803EW
+49,Living Arrangements (Quick Stats) QS108EW,QS108EW
+50,Living Arrangements (Key Stats) KS104EW,KS104EW
+51,Lone Parent Households With Dependent Children (Key Stats) KS107EW,KS107EW
+52,Long-term Health Problem or Disability (Quick Stats) QS303EW,QS303EW
+53,Main Language (Quick Stats) QS204EW,QS204EW
+54,Marital and Civil Partnership Status (Key Stats) KS103EW,KS103EW
+55,Method of Travel to Work (Quick Stats) QS701EW,QS701EW
+56,Multiple Ethnic Groups (Quick Stats) QS202EW,QS202EW
+57,National Identity (Key Stats) KS202EW,KS202EW
+58,NS-Sec (Quick Stats) QS607EW,QS607EW
+59,NS-SeC (Key Stats) KS611EW,KS611EW
+60,NS-SeC - Females (Key Stats) KS613EW,KS613EW
+61,NS-SeC - Males (Key Stats) KS612EW,KS612EW
+62,NS-Sec of Household Reference Person - HRP Aged under 65 (Quick Stats) QS610EW,QS610EW
+63,NS-Sec of Household Reference Person - People Aged under 65 (Quick Stats) QS609EW,QS609EW
+64,NS-SeC of Household Reference Person - People Aged under 65 (Quick Stats) QS608EW,QS608EW
+65,Number of Bedrooms (Quick Stats) QS411EW,QS411EW
+66,Number of Rooms (Quick Stats) QS407EW,QS407EW
+67,Occupancy Rating (Bedrooms) (Quick Stats) QS412EW,QS412EW
+68,Occupancy Rating (rooms) (Quick Stats) QS408EW,QS408EW
+69,Occupation (Key Stats) KS608EW,KS608EW
+70,Occupation (Minor Groups) (Quick Stats) QS606EW,QS606EW
+71,Occupation - Females (Key Stats) KS610EW,KS610EW
+72,Occupation - Males (Key Stats) KS609EW,KS609EW
+73,Passport Held (Key Stats) KS205EW,KS205EW
+74,People Aged 18 to 64 Living In a One Adult Household (Quick Stats) QS117EW,QS117EW
+75,Persons per Bedroom - Households (Quick Stats) QS413EW,QS413EW
+76,Persons per Bedroom - People (Quick Stats) QS414EW,QS414EW
+77,Persons per Room - Households (Quick Stats) QS409EW,QS409EW
+78,Persons per Room - people (Quick Stats) QS410EW,QS410EW
+79,Population Density (Quick Stats) QS102EW,QS102EW
+80,Position in Communal Establishment (Quick Stats) QS419EW,QS419EW
+81,Proficiency in English (Quick Stats) QS205EW,QS205EW
+82,Provision of Unpaid Care (Quick Stats) QS301EW,QS301EW
+83,Qualifications and Students (Key Stats) KS501EW,KS501EW
+84,Qualifications Gained (Quick Stats) QS502EW,QS502EW
+85,Religion (Quick Stats) QS208EW,QS208EW
+86,Religion (Key Stats) KS209EW,KS209EW
+87,Religion (detailed) (Quick Stats) QS210EW,QS210EW
+88,Residence Type (Quick Stats) QS101EW,QS101EW
+89,"Rooms, Bedrooms and Central Heating (Key Stats) KS403EW",KS403EW
+90,Schoolchildren and full-time students at their non term-time (Quick Stats) QS105EW,QS105EW
+91,Second Address (Quick Stats) QS106EW,QS106EW
+92,Sex (Quick Stats) QS104EW,QS104EW
+93,Tenure (Key Stats) KS402EW,KS402EW
+94,Tenure - Household Reference Person aged 65 and Over (Quick Stats) QS404EW,QS404EW
+95,Tenure - Households (Quick Stats) QS405EW,QS405EW
+96,Tenure - People (Quick Stats) QS403EW,QS403EW
+97,Usual Resident Population (Key Stats) KS101EW,KS101EW
+98,Welsh Language Profile (Key Stats) KS208WA,KS208WA
+99,Welsh Language Skills (Quick Stats) QS206WA,QS206WA
+100,Welsh Language Skills (Key Stats) KS207WA,KS207WA
+101,Welsh Language Skills (Detaiiled) (Quick Stats) QS207WA,QS207WA
+102,Year Last Worked (Quick Stats) QS612EW,QS612EW
+103,Year of Arrival in UK (Quick Stats) QS801EW,QS801EW
